@@ -21,9 +21,6 @@ El diseño de las monedas lo he creado a través de Canva.
 
 https://www.canva.com/
 
-                                           CARA
-
-![Logo](https://raw.githubusercontent.com/lauracastelao/image/main/assets/monedi2.jpg)
 
 # ℂ𝕒𝕣𝕒 𝕠 𝕔𝕣𝕦𝕫
 
