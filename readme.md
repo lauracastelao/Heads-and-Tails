@@ -64,14 +64,4 @@ https://www.canva.com/
 
 [Bootstrap (Framework CSS)](https://getbootstrap.com/docs/5.0/getting-started/introduction/ "Bootstrap 5")
 
-                                           CRUZ
-
-![Logo](https://raw.githubusercontent.com/lauracastelao/image/main/assets/monedi1.jpg)
-
-## Demo
-
-![Logo](https://raw.githubusercontent.com/lauracastelao/image/main/copia2.jpg)
-
-## 🔗 Links de recursos
-
-[Bootstrap (Framework CSS)](https://getbootstrap.com/docs/5.0/getting-started/introduction/ "Bootstrap 5")
+    
